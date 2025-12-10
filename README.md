@@ -1,11 +1,11 @@
-# ❄️ Slippin' Jimmy — 2D Unity Game
+# Slippin' Jimmy — 2D Unity Game
 
 **Slippin' Jimmy** is a 2D top-down pixel-art game for Android devices inspired by classic ice sliding puzzles found in titles like *Pokémon Pearl* on the Nintendo DS.  
 The player controls a character who automatically slides across icy surfaces and cannot stop until colliding with an obstacle. The goal of each level is simple: **reach point B starting from point A**.
 
 ---
 
-## 🎮 Main Features
+## Main Features
 
 - **Perspective:** Top-down 2D  
 - **Art style:** Pixel art  
@@ -18,7 +18,7 @@ The player controls a character who automatically slides across icy surfaces and
 
 ---
 
-## 🧊 Gameplay Mechanics
+## Gameplay Mechanics
 
 The character can move in **four directions**: up, down, left, and right.  
 Once a direction is chosen:
@@ -31,7 +31,7 @@ Completing a level unlocks the next one.
 
 ---
 
-## 📱 Controls (Android)
+## Controls (Android)
 
 The game is controlled through **touch gestures**:
 
@@ -42,7 +42,7 @@ The game is controlled through **touch gestures**:
 
 ---
 
-## 🚀 Installation & Running the Game
+## Installation & Running the Game
 
 ### Running from Unity
 1. Clone this repository:  
@@ -60,7 +60,7 @@ The game is controlled through **touch gestures**:
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 *(Screenshots have to be added)*
 
 ---
